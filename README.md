@@ -36,6 +36,7 @@ Some of the visuals I created are:
 
 Here is a screenshot of the dashboard:
 https://github.com/Fatherofcharity/Northwind-Traders/blob/main/Northwind%20Traders%20Dashboard.png
+![Northwind Traders Dashboard](https://github.com/Fatherofcharity/Northwind-Traders/assets/135114403/b19ece9f-cbcb-4ff1-b3ba-7da13c6c675f)
 
 
 ## How to Use
